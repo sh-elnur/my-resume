@@ -1,2 +1,2 @@
-# my-resume
+# My own resume
 My own programming journey...
